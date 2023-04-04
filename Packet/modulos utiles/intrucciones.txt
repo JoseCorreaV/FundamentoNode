@@ -1,0 +1,11 @@
+instalar en la carpeta
+
+npm init -y
+
+
+
+npm i bcrypt => para trabajar con los cifrados
+
+npm i moment => para poder ejecutarlo
+
+npm install i sharp == ejecutar 

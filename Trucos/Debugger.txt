@@ -1,0 +1,21 @@
+
+node --inspect Modulo-Global/05-http.jss
+o chrome://Inspect  => abre un segundo puerto para inspeccionar
+
+
+/*  Resultado 
+
+Debugger listening on ws://127.0.0.1:9229/1cf435b0-f4b4-4f9c-9e71-c3ef194ea1ca        
+For help, see: https://nodejs.org/en/docs/inspector
+escuchando en localhost:30
+
+*/
+
+ ---------------------------------
+en el navegador en porfiler podemos ver el tiempo*
+de respuesta de cada proceso
+
+sources podemos ver el codigo y marcar dhasta donde queremos que ejecute
+
+
+

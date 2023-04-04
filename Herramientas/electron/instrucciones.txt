@@ -1,0 +1,9 @@
+1.  npm init -y
+
+2. npm i electron-app
+
+// configurar el jsacon y crear un script
+3. "start": "electron .",
+
+// ejecutar
+4. npm start

@@ -1,0 +1,28 @@
+Solo para producción!!
+
+
+Nodemon is a utility depended on about 3 million projects, 
+that will monitor for any changes in your source and automatically 
+restart your server. Perfect for development.
+
+Swap nodemon instead of node to run your code, and now your 
+process will automatically restart when your code changes. 
+To install, get Node.js, then from your terminal run: => npm install -g nodemon
+
+
+pm2 mejor que nodemon
+
+npm install -g nodemon => global
+npm install --save-dev nodemon => local
+
+ejecutar nodemon => npx nodemon 00-Entorno.js
+
+
+
+
+ejecutar PM2  => npm install -g pm2
+=> npx pm2 start Entorno.js
+
+npx pm2 status => ver el estado.
+npx pm2 log => ver los procesos en tiempo real
+npx pm2 stop 0 => detener el proceso con el id 0

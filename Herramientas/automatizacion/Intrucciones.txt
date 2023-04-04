@@ -1,0 +1,22 @@
+ejecutar primero el package jason
+
+1. npm init -y
+// utilizado para el front-end
+2. npm i gulp gulp-server-livereload
+
+3. creamos una tarea 
+
+// ------------- //
+/* 4. para poder llamarlo se debe configurar el script en  package.json
+   "build":"gulp  build"
+  gulp ==>  ---(variable = require('gulp'))---
+  build ==> nombre de la tarea
+*/
+// ------------- //b
+
+// para correr una tarea 
+5. npm run build --> build equivale al nombre de la tarea
+
+Nota si configuramoos el script del json
+ "build":"gulp"
+ ejecutara todas las tareas que esten en el archivo
